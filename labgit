@@ -2,6 +2,7 @@
 int main(){
 int a,b;
 int c=a+b;
-printf("sum=%d",c);
-return 0;
+  printf("sum=%d",c);
+  int d=a*b;
+  printf("product=%d",d); return 0;
 }
